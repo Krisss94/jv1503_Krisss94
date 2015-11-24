@@ -1,0 +1,11 @@
+public class App {
+    public static void main(String[]args){
+        double d = 5.76891;
+        double h = Math.pow(10,3);
+        System.out.println(h*d);
+        int b = (int)(h*d);
+        System.out.println(b);
+        double c = b/h;
+        System.out.println(c);
+    }
+}
