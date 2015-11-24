@@ -1,0 +1,8 @@
+public class App {
+    public static void main(String[]args){
+        int a = 17;
+        int b = 8;
+        int c = (int)a/b;
+        System.out.println(c);
+    }
+}
